@@ -30,4 +30,4 @@ Se você souber de algum recursos que ainda não foi listado aqui, pode fazer su
 
 ## Próximos passos:
 
-Enquanot a lista vai sendo expandida, podemos adicionar informações adicionais, como descrições breves do que as ferramentas oferencem, e o quanto as versões em navegador são amigáveis para o uso em celulares.
+Enquanto a lista vai sendo expandida, podemos adicionar informações adicionais, como descrições breves do que as ferramentas oferencem, e o quanto as versões em navegador são amigáveis para o uso em celulares.
