@@ -13,7 +13,7 @@ Este é um projeto colaborativo, e você pode contribuir indicando recursos para
 
 Se você souber de algum recursos que ainda não foi listado aqui, pode fazer sua indicação da forma como preferir:
 
-* Mandar um "pull request" para o repositório do projeto no GitHub, se souber fazer isso;
+* Mandar um "pull request" para [o repositório do projeto no GitHub](https://github.com/marcosvital/estatistica-no-celular), se souber fazer isso;
 * Deixar sua indicação [neste issue no repositório do projeto no GitHub](https://github.com/marcosvital/estatistica-no-celular/issues/1);
 * Me mandar um email em marcos.vital em icbs.ufal.br
 
