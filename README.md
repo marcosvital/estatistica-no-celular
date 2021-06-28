@@ -5,7 +5,7 @@ Quando comecei a ministrar a minha disciplina de Bioestatística em um período 
 
 ## Objetivo
 
-Este repositório nasceu da necessidade de fornecer recursos acessíveis para que estudantes possam trabalhar com estatística na prática, mesmo com limitações de uso de hardware. A prospota é construir uma lista de recursos como sites que permitam o uso de ferramentas estatísticas usando apenas o navegador ou aplicativos de Android que permitam a prática de métodos estatísticos.
+Este repositório nasceu da necessidade de fornecer recursos gratuitos e acessíveis para que estudantes possam trabalhar com estatística na prática, mesmo com limitações de uso de hardware. A prospota é construir uma lista de recursos como sites que permitam o uso de ferramentas estatísticas usando apenas o navegador ou aplicativos de Android que permitam a prática de métodos estatísticos.
 
 ## Como contribuir?
 
