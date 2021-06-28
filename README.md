@@ -21,6 +21,7 @@ Se você souber de algum recursos que ainda não foi listado aqui, pode fazer su
 
 **Estatística no navegador:**
 * [Statistics Kingdom](https://www.statskingdom.com/index.html)
+* [Statgraphics Stratus](http://www.statgraphicsstratus.com/)
 
 **Aplicativos de Android:**
 
