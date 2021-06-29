@@ -19,7 +19,7 @@ Se você souber de algum recursos que ainda não foi listado aqui, pode fazer su
 
 # A lista de recursos
 
-**Estatística no navegador:**
+**Estatística no navegador de internet:**
 * [Statistics Kingdom](https://www.statskingdom.com/index.html)
 * [Statgraphics Stratus](http://www.statgraphicsstratus.com/)
 * [Run R code online](https://rdrr.io/snippets/)
@@ -29,6 +29,9 @@ Se você souber de algum recursos que ainda não foi listado aqui, pode fazer su
 * [STA: Statistical Box](https://play.google.com/store/apps/details?id=dk.evolve.android.sta&hl=en_US&gl=US)
 * [Calculadora Estatística Pro](https://play.google.com/store/apps/details?id=com.cgollner.pro)
 * [Stats Tester, Easy statistics calculator](https://play.google.com/store/apps/details?id=net.umin.home.easystat)
+
+**Outros recursos:**
+* [Google Colab (Python)](https://colab.research.google.com/)
 
 ## Próximos passos:
 
