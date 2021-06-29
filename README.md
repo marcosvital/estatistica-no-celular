@@ -35,6 +35,9 @@ Se você souber de algum recursos que ainda não foi listado aqui, pode fazer su
 * [Calculadora Estatística Pro](https://play.google.com/store/apps/details?id=com.cgollner.pro)
 * [Stats Tester, Easy statistics calculator](https://play.google.com/store/apps/details?id=net.umin.home.easystat)
 
+**Outros recursos:**
+* [Google Sheets](https://www.google.com/sheets/about/): é possível usar as planilhas do Google para trabalhar com estatística descritiva e alguns gráficos simples.
+
 ## Próximos passos:
 
 Enquanto a lista vai sendo expandida, podemos adicionar informações adicionais, como descrições breves do que as ferramentas oferencem, e o quanto as versões em navegador são amigáveis para o uso em celulares.
