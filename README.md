@@ -34,6 +34,7 @@ Se você souber de algum recursos que ainda não foi listado aqui, pode fazer su
 * [STA: Statistical Box](https://play.google.com/store/apps/details?id=dk.evolve.android.sta&hl=en_US&gl=US)
 * [Calculadora Estatística Pro](https://play.google.com/store/apps/details?id=com.cgollner.pro)
 * [Stats Tester, Easy statistics calculator](https://play.google.com/store/apps/details?id=net.umin.home.easystat)
+* [Probability Distributions](https://play.google.com/store/apps/details?id=com.mbognar.probdist)
 
 **Outros recursos:**
 * [Google Sheets](https://www.google.com/sheets/about/): é possível usar as planilhas do Google para trabalhar com estatística descritiva e alguns gráficos simples.
