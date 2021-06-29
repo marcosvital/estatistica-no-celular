@@ -20,9 +20,9 @@ Se você souber de algum recursos que ainda não foi listado aqui, pode fazer su
 # A lista de recursos
 
 **Estatística no navegador de internet:**
-* [Statistics Kingdom](https://www.statskingdom.com/index.html)
-* [Statgraphics Stratus](http://www.statgraphicsstratus.com/)
-* [Run R code online](https://rdrr.io/snippets/)
+* [Statistics Kingdom](https://www.statskingdom.com/index.html): estatística descritiva, testes de hipóteses, gráficos e outros recursos.
+* [Statgraphics Stratus](http://www.statgraphicsstratus.com/): estatística descritiva, testes de hipóteses, gráficos e outros recursos.
+* [Run R code online](https://rdrr.io/snippets/): uso do R online, com acesso à vários pacotes.
 
 **Aplicativos de Android:**
 
