@@ -22,16 +22,18 @@ Se você souber de algum recursos que ainda não foi listado aqui, pode fazer su
 **Estatística no navegador de internet:**
 * [Statistics Kingdom](https://www.statskingdom.com/index.html): estatística descritiva, testes de hipóteses, gráficos e outros recursos.
 * [Statgraphics Stratus](http://www.statgraphicsstratus.com/): estatística descritiva, testes de hipóteses, gráficos e outros recursos.
+
+**Usando o R ou Python online:**
 * [Run R code online](https://rdrr.io/snippets/): uso do R online, com acesso à vários pacotes.
+* [Google Colab (R ou Python)](https://colab.research.google.com/): Jupyter notebook para Python ou R (altere para R se desejar no menu "Ambiente de execução").
+* [RStudio cloud](https://rstudio.cloud/): R com RStudio usando o navegador.
+* [Replit](https://replit.com/): R, Python e diversas outras linguagens no navegador.
 
 **Aplicativos de Android:**
 
 * [STA: Statistical Box](https://play.google.com/store/apps/details?id=dk.evolve.android.sta&hl=en_US&gl=US)
 * [Calculadora Estatística Pro](https://play.google.com/store/apps/details?id=com.cgollner.pro)
 * [Stats Tester, Easy statistics calculator](https://play.google.com/store/apps/details?id=net.umin.home.easystat)
-
-**Outros recursos:**
-* [Google Colab (Python)](https://colab.research.google.com/)
 
 ## Próximos passos:
 
